@@ -1,0 +1,17 @@
+{
+  "name": "apify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apify": "^3.1.12",
+    "crawlee": "^3.5.8",
+    "playwright": "^1.39.0"
+  },
+  "type": "module"
+}
